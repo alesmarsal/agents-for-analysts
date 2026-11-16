@@ -1,0 +1,9 @@
+file,agency,report,edition,published,where,used_in,status
+2026-09_IEF_comparison.pdf,IEF,Comparative Analysis of Monthly Reports on the Oil Market,September 2026,14 Sep 2026,https://www.ief.org/_resources/files/news/comparative-analysis-of-monthly-reports-on-the-oil-market/september-2026/ief-comparative-analysis-09-2026.pdf,"cards 6a, 7",download yourself (IEF terms do not allow reposting)
+2026-02_IEF_comparison.pdf,IEF,Comparative Analysis of Monthly Reports on the Oil Market,February 2026,Feb 2026,https://www.ief.org/_resources/files/news/comparative-analysis-of-monthly-reports-on-the-oil-market/february-2026/ief-comparative-analysis-02-2026.pdf,"card 6a; optional (when the gap opened)",download yourself (IEF terms do not allow reposting)
+reports/2026-09_EIA_STEO.pdf,EIA,Short-Term Energy Outlook,September 2026,9 Sep 2026,https://www.eia.gov/outlooks/steo/archives/sep26.pdf,card 7,included
+reports/2026-09_EIA_STEO_data.xlsx,EIA,Short-Term Energy Outlook data file,September 2026,9 Sep 2026,https://www.eia.gov/outlooks/steo/archives/sep26_base.xlsx,optional,included
+excerpts_OPEC_IEA.md,OPEC,Monthly Oil Market Report (Tables 3-1 and 11-1),September 2026,10 Sep 2026,https://www.opec.org/monthly-oil-market-report.html,"cards 8, 9",excerpts (OPEC allows educational reuse of its information with acknowledgement; not full reproduction)
+excerpts_OPEC_IEA.md,IEA,Oil Market Report (Table 1; production table; observed stocks; GDP),17 June 2026,17 Jun 2026,https://www.iea.org/reports/oil-market-report-june-2026,"cards 8, 9",excerpts (full report is a subscription product)
+gdp_note.md,"OPEC, EIA, IEA",GDP assumptions for 2026,"Sep 2026 (OPEC, EIA); 17 Jun 2026 (IEA)",,see file,card 8,included (short quotes with pages)
+agent_cards.md,KAPSARC,Prompt cards for the practical,v1.0,17 Nov 2026,this repository,all,included
